@@ -1,0 +1,38 @@
+# Hass Road (92) - Hass Pavilion (93)
+92,S,0,93,N,0
+# Edge props (123) - Furthest North (122)
+123,S,0,122,N,0
+# Vally Life Science (113) - Furthest North (122)
+113,W,0,122,E,0
+# Moffit Field (120) - Furthest North (122)
+120,S,0,122,N,25
+# Vally Life Science (113) - Edge props (123)
+113,N,0,123,S,40
+# Moffit Field (120) - Edge props (123)
+120,W,30,123,E,0
+# Moffit Field (120) - Memorial Glade (124)
+120,N,2,124,S,0
+# Moffit Field (120) - Vally Life Science (113)
+120,S,15,113,N,0
+# Lower Sprou (78) - GBC (77)
+78,W,0,77,E,40
+# Upper Sprou (79) - GBC (77)
+79,W,0,77,E,0
+# Above Sprou (80) - GBC (77)
+80,S,0,77,N,0
+# GBC RD (48) - GBC (77)
+48,N,0,77,S,0
+# Dwinel (81) - GBC (77)
+81,E,0,77,W,0
+# Upper Sprou (79) - Lower Sprou (78)
+79,S,0,78,N,0
+# GBC RD (48) - Lower Sprou (78)
+48,E,0,78,W,5
+# Above Sprou (80) - Upper Sprou (79)
+80,S,40,79,N,0
+# GBC RD (48) - Upper Sprou (79)
+48,E,0,79,W,45
+# Dwinel (81) - Above Sprou (80)
+81,N,85,80,S,0
+# Dwinel (81) - GBC RD (48)
+81,E,45,48,W,0

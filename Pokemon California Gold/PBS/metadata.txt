@@ -1,0 +1,708 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=33,5,5,2
+WildBattleBGM=002-Battle02.mid
+[001]
+# Intro
+[002]
+# Hertz Pass
+Bicycle=true
+MapPosition=0,14,16
+Outdoor=true
+ShowArea=true
+[003]
+# Icy path
+BattleBack=IndoorB
+Weather=Snow,30
+Bicycle=true
+MapPosition=0,16,11
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[004]
+# Frost floor 1
+MapPosition=0,16,12
+Outdoor=false
+ShowArea=false
+[005]
+# Frost floor 2
+MapPosition=0,16,12
+Outdoor=false
+ShowArea=false
+[006]
+# Frost floor 3
+Weather=Blizzard,80
+Bicycle=true
+MapPosition=0,17,13
+Outdoor=true
+ShowArea=true
+[007]
+# Frost floor 4
+MapSize=2,11
+MapPosition=0,16,13
+Outdoor=false
+ShowArea=false
+[008]
+# Hertz Ice path
+Weather=Blizzard,80
+Bicycle=true
+MapPosition=0,18,13
+Outdoor=true
+ShowArea=true
+[009]
+# Lecont pathway
+MapPosition=0,16,8
+[010]
+# Icy layer
+BattleBack=IndoorB
+MapPosition=0,17,13
+[011]
+# Hertz Ice pathway
+MapPosition=0,18,13
+[012]
+# Hertz pathway 1
+MapPosition=0,12,15
+[013]
+# Hertz pathway 2
+MapPosition=0,12,16
+[014]
+# Hertz
+Bicycle=true
+MapPosition=0,19,13
+Outdoor=true
+ShowArea=true
+[015]
+# Hertz pathway
+MapPosition=0,19,13
+[016]
+# Victory pathway
+MapPosition=0,20,13
+[017]
+# Victory Road
+Bicycle=true
+MapPosition=0,20,13
+Outdoor=true
+ShowArea=true
+[018]
+# VR floor 1
+MapPosition=0,21,13
+[019]
+# VR floor 0
+MapPosition=0,21,13
+[020]
+# VR floor 2
+MapPosition=0,22,14
+[021]
+# VR floor -1
+MapSize=1,11
+MapPosition=0,23,14
+Outdoor=false
+ShowArea=false
+[022]
+# BRH
+MapPosition=0,10,15
+Outdoor=false
+ShowArea=true
+[023]
+# VR floor 3
+MapPosition=0,23,15
+Outdoor=false
+ShowArea=false
+[024]
+# Memorial Stadium
+Bicycle=true
+MapPosition=0,26,16
+Outdoor=true
+ShowArea=true
+[025]
+# Lightning layer
+MapPosition=0,24,14
+[026]
+# House House
+Bicycle=true
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[027]
+# Flame Layer
+MapPosition=0,16,4
+[028]
+# Main Stacks Mart
+BattleBack=Forest
+MapPosition=0,12,7
+Outdoor=true
+ShowArea=true
+[029]
+# Main Stacks Poké Center
+Bicycle=true
+MapPosition=0,12,8
+HealingSpot=125,13,38
+[030]
+# Inside Main Stacks
+MapPosition=0,13,8
+[031]
+# Three Buildings
+MapSize=2,1101
+MapPosition=0,13,8
+Outdoor=true
+ShowArea=true
+[032]
+# lounge
+MapPosition=0,10,15
+[033]
+# Office
+MapPosition=0,10,15
+[034]
+# Upper floors
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,12,8
+[035]
+# Main Stacks Gym
+MapPosition=0,13,8
+Outdoor=true
+ShowArea=true
+[036]
+# Main Stacks Dept. 1F
+MapPosition=0,12,7
+[037]
+# Main Stacks Dept. 2F
+BattleBack=EliteA
+MapPosition=0,12,8
+[038]
+# Main Stacks Dept. 3F
+MapPosition=0,12,8
+[039]
+# Main Stacks Dept. 4F
+MapSize=2,11
+MapPosition=0,13,8
+Outdoor=false
+ShowArea=false
+[040]
+# Main Stacks Dept. 5F
+MapPosition=0,13,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[041]
+# Main Stakcs Dept. Rooftop
+MapSize=1,111
+MapPosition=0,13,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[042]
+# Inside BRH
+MapPosition=0,10,15
+[043]
+# Room Q
+MapPosition=0,10,15
+HealingSpot=42,20,8
+[044]
+# Main Stacks Dept. Elevator
+MapSize=2,11
+MapPosition=0,12,8
+Outdoor=false
+ShowArea=false
+[045]
+# Fake Gym
+MapPosition=0,13,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[046]
+# Mt Evans Mart
+Bicycle=false
+MapPosition=0,16,5
+[047]
+# Mt Evans Poké Center
+MapSize=2,11
+BattleBack=Mountain
+MapPosition=0,16,5
+Outdoor=false
+HealingSpot=130,39,27
+ShowArea=false
+[048]
+# GBC RD
+SnapEdges=false
+Bicycle=true
+MapPosition=0,10,14
+Outdoor=true
+ShowArea=true
+[049]
+# Lava Lab
+Bicycle=false
+MapPosition=0,16,5
+[050]
+# Mt. Evans Gym
+BattleBack=
+Bicycle=false
+MapPosition=0,16,5
+DarkMap=false
+Outdoor=false
+[051]
+# Gym Botom floor
+Bicycle=false
+Dungeon=false
+MapPosition=0,16,4
+[052]
+# Floor 2
+MapPosition=0,15,5
+Outdoor=false
+ShowArea=false
+[053]
+# Floor 3
+MapPosition=0,16,5
+[054]
+# Leconte Mart
+MapPosition=0,16,8
+[055]
+# Leconte Poké Center
+MapPosition=0,16,8
+HealingSpot=145,35,26
+[056]
+# Game Corner
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Inside leconte
+MapPosition=0,17,10
+[058]
+# U$C base
+MapPosition=0,17,10
+[059]
+# Lower Level
+MapPosition=0,17,10
+[060]
+# Giovanies Office
+MapPosition=0,17,10
+[061]
+# Leconte Gym
+MapPosition=0,17,10
+[062]
+# Inside Hertz
+MapPosition=0,19,13
+[063]
+# Hertz Mart
+MapPosition=0,19,13
+[064]
+# Hertz Poké Center
+BattleBack=EliteC
+MapPosition=0,19,13
+HealingSpot=14,11,19
+[065]
+# Hertz Gym
+MapPosition=0,19,13
+[066]
+# Memorial Mart
+MapPosition=0,26,16
+[067]
+# Memorial Poké Center
+MapPosition=0,26,16
+HealingSpot=24,15,25
+[068]
+# Inside Memorial 
+MapPosition=0,26,16
+[069]
+# Elite four building
+MapPosition=0,26,16
+[070]
+# The chaimbers
+MapPosition=0,26,16
+[071]
+# Champions chaimber
+MapPosition=0,26,16
+[072]
+# Hall of fame
+MapPosition=0,26,16
+[073]
+# Inside hh
+MapPosition=0,22,16
+Outdoor=false
+ShowArea=false
+[074]
+# Library
+MapPosition=0,10,15
+[075]
+# In camp
+MapPosition=0,15,8
+Outdoor=false
+[076]
+# downstairs
+MapPosition=0,10,15
+[077]
+# GBC
+Bicycle=true
+MapPosition=0,11,15
+Outdoor=true
+ShowArea=true
+[078]
+# Lower Sprou
+SnapEdges=false
+Bicycle=true
+MapPosition=0,9,17
+Outdoor=true
+ShowArea=true
+[079]
+# Upper Sprou
+Bicycle=true
+MapPosition=0,12,16
+Outdoor=true
+HealingSpot=79,19,22
+ShowArea=true
+[080]
+# Above Sprou
+Bicycle=true
+MapPosition=0,12,16
+Outdoor=true
+ShowArea=false
+[081]
+# Dwinel
+SnapEdges=false
+Bicycle=true
+Dungeon=false
+MapPosition=0,9,12
+Outdoor=true
+ShowArea=true
+[082]
+# Inside dwinell
+MapPosition=0,9,12
+[083]
+# Dwinell Poké Center
+MapPosition=0,10,12
+HealingSpot=82,10,22
+[084]
+# Dwinell Mart
+MapPosition=0,10,11
+[085]
+# Houses
+MapPosition=0,9,12
+[086]
+# Dwinell Gym
+MapPosition=0,9,12
+[087]
+# Matts office
+MapPosition=0,10,14
+[088]
+# MLK
+MapPosition=0,9,17
+[089]
+# MLK Poké Center
+MapPosition=0,9,17
+HealingSpot=88,32,28
+[090]
+# MLK GYM
+MapPosition=0,9,17
+[091]
+# GBC pathway
+MapPosition=0,9,15
+[092]
+# Hass Road
+Bicycle=true
+MapPosition=0,9,16
+Outdoor=true
+ShowArea=true
+[093]
+# Hass Pavilion
+Bicycle=true
+MapPosition=0,6,15
+Outdoor=true
+ShowArea=true
+[094]
+# Lower Sproul pathway
+MapPosition=0,9,16
+[095]
+# Hass Poké Center
+MapPosition=0,5,15
+Outdoor=false
+HealingSpot=93,27,37
+[096]
+# Hass Mart
+MapPosition=0,6,16
+[097]
+# Hass Interior
+MapPosition=0,6,15
+[098]
+# Alumni House
+MapPosition=0,6,15
+[099]
+# Hass Gym
+MapPosition=0,5,15
+Outdoor=false
+[100]
+# hass pathway
+MapPosition=0,6,15
+[101]
+# Western mountains
+Bicycle=true
+MapPosition=0,5,14
+Outdoor=true
+ShowArea=true
+[102]
+# West floor 1
+Bicycle=false
+MapPosition=0,5,14
+[103]
+# West floor 0
+MapPosition=0,6,14
+[104]
+# West floor 2
+MapPosition=0,6,13
+[105]
+# West floor 3
+MapPosition=0,6,13
+[106]
+# West floor -1
+MapPosition=0,6,14
+[107]
+# West floor -2
+MapPosition=0,6,14
+[108]
+# North end 0
+MapPosition=0,6,12
+[109]
+# Dwinell Mountain enterance
+Bicycle=true
+MapPosition=0,7,12
+Outdoor=true
+[110]
+# Dwinell west pathway
+MapPosition=0,8,12
+[111]
+# Dwinell Desert pathway
+MapPosition=0,8,11
+[112]
+# The Great Desert
+Weather=Sandstorm,100
+Bicycle=true
+MapPosition=0,7,11
+Outdoor=true
+ShowArea=true
+[113]
+# Vally Life Science
+Bicycle=true
+MapPosition=0,7,9
+Outdoor=true
+ShowArea=true
+[114]
+# Vally Mart
+MapPosition=0,6,9
+[115]
+# Vally Poké Center
+MapPosition=0,7,9
+HealingSpot=113,22,31
+[116]
+# Vally inside
+MapPosition=0,7,8
+[117]
+# Vally Gym
+MapPosition=0,6,9
+[118]
+# Vally pathway 1
+MapPosition=0,7,9
+[119]
+# Vally pathway 2
+MapPosition=0,6,9
+[120]
+# Moffit Field
+Bicycle=true
+MapPosition=0,8,7
+Outdoor=true
+ShowArea=true
+[121]
+# Dwinell Field pathway
+MapPosition=0,9,10
+[122]
+# Furthest North
+Bicycle=true
+MapPosition=0,7,6
+Outdoor=true
+ShowArea=true
+[123]
+# Edge props
+Bicycle=true
+MapPosition=0,7,5
+Outdoor=true
+[124]
+# Memorial Glade
+Bicycle=true
+MapPosition=0,10,6
+Outdoor=true
+ShowArea=true
+[125]
+# Main Stacks
+Bicycle=true
+MapPosition=0,13,8
+Outdoor=true
+ShowArea=true
+[126]
+# Dwinell pathway
+MapPosition=0,13,8
+[127]
+# Glade pathway
+MapPosition=0,12,8
+[128]
+# East pathway
+MapPosition=0,13,8
+[129]
+# Eastern Pass
+Bicycle=true
+MapPosition=0,15,7
+Outdoor=true
+ShowArea=true
+[130]
+# Mt Evans
+Bicycle=true
+MapPosition=0,16,4
+Outdoor=true
+ShowArea=true
+[131]
+# Evans floor 9
+MapPosition=0,16,4
+[132]
+# Evans floor 8
+MapPosition=0,16,5
+[133]
+# Evans floor 7
+MapPosition=0,16,5
+[134]
+# Evans floor 6
+Bicycle=true
+MapPosition=0,16,5
+Outdoor=true
+[135]
+# Evans floor 5
+MapPosition=0,15,5
+[136]
+# Evans floor 4
+MapPosition=0,16,5
+[137]
+# Evans floor 3
+Bicycle=true
+MapPosition=0,15,4
+Outdoor=true
+[138]
+# Evans floor 2
+MapPosition=0,15,5
+[139]
+# Evans floor 1
+MapPosition=0,15,4
+[140]
+# Campanile Forest
+Bicycle=true
+MapPosition=0,15,7
+Outdoor=true
+ShowArea=true
+[141]
+# Lecont pathway
+MapPosition=0,15,7
+[142]
+# Dwinell pathway
+MapPosition=0,15,8
+[143]
+# East pathway
+MapPosition=0,15,7
+[144]
+# Campanile
+Bicycle=true
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[145]
+# Leconte
+Bicycle=true
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[146]
+# Top of camp
+MapPosition=0,15,8
+Outdoor=true
+[147]
+# I house
+MapPosition=0,26,17
+[148]
+# Safari
+Bicycle=true
+MapPosition=0,26,16
+Outdoor=true
+[149]
+# Safari2
+Bicycle=true
+MapPosition=0,26,17
+Outdoor=true
+[153]
+# Gen2 Baby
+Bicycle=true
+MapPosition=0,9,12
+ShowArea=true
+[154]
+# G2L1
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[155]
+# G2l2
+Weather=Storm,10
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[156]
+# G2L3
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,9,12
+[157]
+# Party Pool
+MapPosition=0,9,11
+[158]
+# G2L4
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[159]
+# G2L5
+Bicycle=true
+MapPosition=0,10,12
+Outdoor=true
+[160]
+# G2L6
+Bicycle=false
+MapPosition=0,24,4
+Outdoor=false
+[161]
+# G2L7
+Weather=Storm,20
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[162]
+# G2L8
+Weather=Sun,10
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[163]
+# Flame Boi
+MapPosition=0,9,12
+[164]
+# MAP164
+MapPosition=0,9,11
+[165]
+# MansionRoom
+MapPosition=0,9,12
+[166]
+# G2L9
+Weather=Rain,99
+Bicycle=true
+MapPosition=0,9,12
+Outdoor=true
+[168]
+# light boy
+Bicycle=false
+MapPosition=0,9,12
+Outdoor=false
